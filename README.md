@@ -1,0 +1,2 @@
+# sonicSliderAngular
+Client Side
